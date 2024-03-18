@@ -17,3 +17,12 @@ For the video and the instructions I have all the database information in the .i
 
 This is the youtube link for my video submission
 https://youtu.be/Rf4jgbAMjrY
+
+
+The config.ini file looks like This
+[postgresql]
+dbname=postgres
+user=postgres
+password=pass
+host=localhost
+port=5432
